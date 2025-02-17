@@ -5,3 +5,6 @@ Horrela egin dugu guk:
 
 
 # Bumeter
+
+
+Bumeter bat sortzeko, guk 1088AS LED matrizea erabiltzea aukeratu dugu arduino baten bidez kontrolatzeko. Horren bidez, balio analogikoaren arabera, zenbat eta errenkada gehiago izan, orduan eta errenkada gehiago pizte-obrara iritsiko gara, eta berdin errezeetara. Balio gehien edo gutxien lortzen dugun bolumenaren arabera.
