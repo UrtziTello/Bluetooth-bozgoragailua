@@ -7,7 +7,7 @@ Horrela egin dugu guk:
 
 # Anplifikagailua
 
-Anplifikagailua bluetooth moduloatik etortzen diren audioaren seinaleak indartzeko erabiliko dugun gailua da, bolumen handiagoa eta soinuaren kalitate hobea lortuz. Anplifikagailua seinale eta soinu distortsio baxua mantentzenko gai da soinu garbia eta fidagarria bermatuz, baita bolumen altuetan ere. Anplifikagailu honek eraginkortasun energetikoa eskaintzen du eta hau bero gutxi sortuz, gailuaren iraunkortasuna eta egonkortasuna hobetuz. Gainera, oso aipagarria da hau dena egin dezakegula diseinu trinkoa duen anplifikagailu batekin eta honek integrazio eta erabilera oso erraza eskaintzen digu, horri esker edozein audio-sisteman esperientzia bikaina eskaini diezakegu.
+[Anplifikagailua](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) bluetooth moduloatik etortzen diren audioaren seinaleak indartzeko erabiliko dugun gailua da, bolumen handiagoa eta soinuaren kalitate hobea lortuz. Anplifikagailua seinale eta soinu distortsio baxua mantentzenko gai da soinu garbia eta fidagarria bermatuz, baita bolumen altuetan ere. Anplifikagailu honek eraginkortasun energetikoa eskaintzen du eta hau bero gutxi sortuz, gailuaren iraunkortasuna eta egonkortasuna hobetuz. Gainera, oso aipagarria da hau dena egin dezakegula diseinu trinkoa duen anplifikagailu batekin eta honek integrazio eta erabilera oso erraza eskaintzen digu, horri esker edozein audio-sisteman esperientzia bikaina eskaini diezakegu.
 
 
 # Bumeter
