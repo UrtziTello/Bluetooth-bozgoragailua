@@ -1,5 +1,5 @@
 # BLUETOOTH-BOZGORAGAILUA
-Proiektu honetan, Bluetooth bidez kontrolatzen den bozgorailu bat sortuko dugu, audio-seinaleak modu erosoan eta haririk gabe transmitituz, erabiltzailearentzako esperientzia erraz eta modernoagoa eskainiz. Horrez gain, audio-seinalearen intentsitatea (dB-ak) neurtuko dugu, eta hori Bumetro bat kontrolatzeko erabiliko da, seinalearen maila bisualki adieraziz eta diseinu estetiko eta funtzionala gehituz.
+Proiektu honetan, Bluetooth bidez kontrolatzen den bozgorailu bat sortuko dugu, audio-seinaleak modu erosoan eta haririk gabe transmititzea ahalbidetuz, erabiltzailearentzako esperientzia erraz eta modernoagoa eskainiz. Horrez gain, audio-seinalearen intentsitatea (dB-ak) neurtuko dugu, eta hori Bumetro bat kontrolatzeko erabiliko da, seinalearen maila bisualki adieraziz eta diseinu estetiko eta funtzionala gehituz.
 
 
 
