@@ -7,6 +7,9 @@ Horrela egin dugu guk:
 
 # Anplifikagailua
 
+![](https://i.imgur.com/3A1oUfT.png)
+
+
 [Anplifikagailua](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) [bluetooth](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bluetooth-moduloa) moduloatik etortzen diren audioaren seinaleak indartzeko erabiliko dugun gailua da, bolumen handiagoa eta soinuaren kalitate hobea lortuz. [Anplifikagailua](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) seinale eta soinu distortsio baxua mantentzenko gai da soinu garbia eta fidagarria bermatuz, baita bolumen altuetan ere. [Anplifikagailu](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) honek eraginkortasun energetikoa eskaintzen du eta hau bero gutxi sortuz, gailuaren iraunkortasuna eta egonkortasuna hobetuz. Gainera, oso aipagarria da hau dena egin dezakegula diseinu trinkoa duen [anplifikagailu](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) batekin eta honek integrazio eta erabilera oso erraza eskaintzen digu, horri esker edozein audio-sisteman esperientzia bikaina eskaini diezakegu.
 
 
