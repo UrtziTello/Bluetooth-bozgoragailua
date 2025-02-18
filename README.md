@@ -19,4 +19,4 @@ Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgo
 # Bluetooth moduloa
 
 
-[Bluetooh moduluaren] bidez konektatuko eta kontrolatuko dugu gure bozgorailua eta bumeterra. Konektatzerakoan seinale analogiko bat bidaliko du arduinora eta amplifikagailura musika entzun ahal izateko. 
+[Bluetooh moduluaren](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bluetooth-moduloa) bidez konektatuko eta kontrolatuko dugu gure bozgorailua eta bumeterra. Konektatzerakoan seinale analogiko bat bidaliko du arduinora eta amplifikagailura musika entzun ahal izateko. 
