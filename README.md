@@ -35,6 +35,12 @@ Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgo
 
 # Eskerrak
 
+Proiektua burutu ahal izateko informazioa, adibideak eta argibideak erabili izan ditugu, horregatik orri honen sortzaileen partetik eskertu nahiko genituzke:
+
+- f
+
+- d
+
 
 # Egileak
 
