@@ -52,3 +52,5 @@ Jordi Sanchez: jordi.sanchez03@ikasle.db.eus
 Jon Telleria: jon.Telleria04@ikasle.db.eus
 
 Urtzi Tello: urtzi.tello03@ikasle.db.eus
+
+Edozein zalantzarik izanez gero, jar zaitezkete harremanetan gurekin.
