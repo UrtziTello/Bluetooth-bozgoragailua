@@ -4,6 +4,8 @@ Proiektu honetan bozgorailu bat kontrolatuko dugu bluetooth-aren bidez eta audio
 Horrela egin dugu guk:
 [TDA7297](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea#tda7297) txip-a erabiliz egindako estereo bluetooth bozgoragailua.
 
+Proiektua honako hiru atal nagusietan banatuko dugu:
+
 
 # Anplifikagailua
 
