@@ -16,6 +16,9 @@ Horrela egin dugu guk:
 # Bumeter
 
 
+![AR0133-Matriz-8X8-Diagrama-Arduino-1](https://github.com/user-attachments/assets/274a1d2e-b4c1-4f07-bb0b-82d274cc437e)
+
+
 Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#1088as) LED matrizea erabiltzea aukeratu dugu [arduino uno](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#arduino-uno) baten bidez kontrolatzeko. Horren bidez, balio analogikoaren arabera, zenbat eta balio gehiago izan, orduan eta errenkada gehiago piztu. Balio gehien edo gutxien lortzen dugun bolumenaren arabera. Errenkada bat beti eukiko dugu piztuta bolumena izan ala ez. Bumeterra funtzionatzeko arduino kodigo bat sortu dugu seinalea irakurri ahal izateko eta led matriz-ak piztu eta itzali ahal izateko.
 
 
