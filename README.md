@@ -1,5 +1,5 @@
 # BLUETOOTH-BOZGORAGAILUA
-Proiektu honetan bozgorailu bat kontrolatuko dugu bluetooth-aren bidez eta audio seinalearen(db-ak) bidez voometer bat kontrolatuko dugu. Db gehiago eukitzen badugu led gehiago piztuko dira eta berdina alderantziz.
+Proiektu honetan, Bluetooth bidez bozgorailu bat kontrolatuko dugu, audio-seinaleak modu erosoan eta haririk gabe transmitituz, erabiltzailearentzako esperientzia erraz eta modernoagoa eskainiz. Horrez gain, audio-seinalearen intentsitatea (dB-ak) neurtuko dugu, eta hori voometer bat kontrolatzeko erabiliko da, seinalearen maila bisualki adieraziz eta diseinu estetiko eta funtzionala gehituz.
 
 Horrela egin dugu guk:
 [TDA7297](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea#tda7297) txip-a erabiliz egindako estereo bluetooth bozgoragailua.
@@ -21,7 +21,7 @@ Proiektua honako hiru atal nagusietan banatuko dugu:
 ![AR0133-Matriz-8X8-Diagrama-Arduino-1](https://github.com/user-attachments/assets/274a1d2e-b4c1-4f07-bb0b-82d274cc437e)
 
 
-Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#1088as) LED matrizea erabiltzea aukeratu dugu [arduino uno](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#arduino-uno) baten bidez kontrolatzeko. Horren bidez, balio analogikoaren arabera, zenbat eta balio gehiago izan, orduan eta errenkada gehiago piztu. Balio gehien edo gutxien lortzen dugun bolumenaren arabera. Errenkada bat beti eukiko dugu piztuta bolumena izan ala ez. Bumeterra funtzionatzeko arduino kodigo bat sortu dugu seinalea irakurri ahal izateko eta led matriz-ak piztu eta itzali ahal izateko.
+Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#1088as) LED matrizea erabiltzea aukeratu dugu [arduino uno](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#arduino-uno) baten bidez kontrolatzeko. Horren bidez, balio analogikoaren arabera, zenbat eta balio gehiago izan, orduan eta errenkada gehiago piztu. Balio gehien edo gutxien lortzen dugun bolumenaren arabera. Errenkada bat beti edukiko dugu piztuta bolumena izan ala ez. Bumeterra funtzionatzeko arduino kodigo bat sortu dugu, seinalea irakurri ahal izateko eta led matriz-ak piztu eta itzali ahal izateko.
 
 
 # Bluetooth moduloa
@@ -35,11 +35,13 @@ Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgo
 
 # Eskerrak
 
-Proiektua burutu ahal izateko informazioa, adibideak eta argibideak erabili izan ditugu, horregatik orri honen sortzaileen partetik eskertu nahiko genituzke:
+Proiektua gauzatu ahal izateko, informazioa, adibideak eta argibideak erabili ditugu. Horregatik, orri honen sortzaileen aldetik, eskerrak eman nahi dizkiegu jarraian aipatutako pertsonei. Haien informazioa bildu eta modu argi eta garbian azaltzeko egindako ahalegina benetan eskertzekoa da.
 
-- [JohnAudioTech](https://www.youtube.com/watch?v=aK63iCI11D4) kanalari egindako TDA7297 anplifikagailuaren azalpen bideoarengatik.
+- [Inventable](https://www.inventable.eu/2013/09/25/amplificador-ultracompacto-tda7297/) web orrialdeari egindako blogarengatik.
 
-- d
+- [JohnAudioTech](https://www.youtube.com/watch?v=aK63iCI11D4) kanalari egindako [TDA7297](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea) anplifikagailuaren azalpen bideoarengatik.
+
+- [Mario's Ideas](https://www.youtube.com/watch?v=X9tsfOeYnAU) kanalari [LED-ei](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#1088as) buruzko azalpen bideoarengatik
 
 
 # Egileak
