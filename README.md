@@ -3,7 +3,7 @@ Proiektu honetan, Bluetooth bidez kontrolatzen den bozgorailu bat sortuko dugu, 
 
 
 
-## Proiektua honako hiru atal nagusietan banatuko dugu:
+## Proiektuaren hiru atal nagusiak:
 
 
 # Anplifikagailua
