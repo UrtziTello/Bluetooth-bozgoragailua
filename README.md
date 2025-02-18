@@ -1,10 +1,9 @@
 # BLUETOOTH-BOZGORAGAILUA
-Proiektu honetan, Bluetooth bidez bozgorailu bat kontrolatuko dugu, audio-seinaleak modu erosoan eta haririk gabe transmitituz, erabiltzailearentzako esperientzia erraz eta modernoagoa eskainiz. Horrez gain, audio-seinalearen intentsitatea (dB-ak) neurtuko dugu, eta hori voometer bat kontrolatzeko erabiliko da, seinalearen maila bisualki adieraziz eta diseinu estetiko eta funtzionala gehituz.
+Proiektu honetan, Bluetooth bidez kontrolatzen den bozgorailu bat sortuko dugu, audio-seinaleak modu erosoan eta haririk gabe transmitituz, erabiltzailearentzako esperientzia erraz eta modernoagoa eskainiz. Horrez gain, audio-seinalearen intentsitatea (dB-ak) neurtuko dugu, eta hori Bumetro bat kontrolatzeko erabiliko da, seinalearen maila bisualki adieraziz eta diseinu estetiko eta funtzionala gehituz.
 
-## Horrela egin dugu guk:
-[TDA7297](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Anplifikadorea#tda7297) txip-a erabiliz egindako estereo bluetooth bozgoragailua.
 
-Proiektua honako hiru atal nagusietan banatuko dugu:
+
+## Proiektua honako hiru atal nagusietan banatuko dugu:
 
 
 # Anplifikagailua
