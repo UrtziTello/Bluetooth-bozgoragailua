@@ -8,8 +8,6 @@ Proiektu honetan, Bluetooth bidez kontrolatzen den bozgorailu bat sortuko dugu, 
 
 # Anplifikagailua
 
-![](https://i.imgur.com/3A1oUfT.png)
-
 ![](https://avelectronics.cc/wp-content/uploads/2019/05/AU006-324x324.jpg)
 
 
