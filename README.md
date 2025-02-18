@@ -16,4 +16,7 @@ Horrela egin dugu guk:
 Bumeter bat sortzeko, guk [1088AS](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#1088as) LED matrizea erabiltzea aukeratu dugu [arduino uno](https://github.com/UrtziTello/Bluetooth-bozgoragailua/wiki/Bumetroa#arduino-uno) baten bidez kontrolatzeko. Horren bidez, balio analogikoaren arabera, zenbat eta balio gehiago izan, orduan eta errenkada gehiago piztu. Balio gehien edo gutxien lortzen dugun bolumenaren arabera. Errenkada bat beti eukiko dugu piztuta bolumena izan ala ez.  
 
 
-Bluettoh 
+# Bluetooth moduloa
+
+
+[Bluetooh moduluaren] bidez konektatuko eta kontrolatuko dugu gure bozgorailua eta bumeterra. Konektatzerakoan seinale analogiko bat bidaliko du arduinora eta amplifikagailura musika entzun ahal izateko. 
